@@ -1,6 +1,3 @@
----
-title: "Lean Crow Marketing"
----
 <div class="hero">
   <h2>Helping companies implement agile marketing and conversion strategies</h2>
 </div>
@@ -9,7 +6,7 @@ title: "Lean Crow Marketing"
     <h3>Multi-Channel Marketing</h3>
     <p>Multi-channel marketing has come a long way since operating disparate activities in silos. Along a user journey, a customer
       can encounter various messages related to your brand that all contribute to a conversion. If you understand the contribution
-      each channel makes, you can reduce costs and improve conversions.</p>
+      each channel makes, you can reduce costs and improve conversions. </p>
     <img src="img/diagram.png" alt="diagram" />
     <h4>MY SERVICES INCLUDE...</h4>
     <ul>
