@@ -1,3 +1,6 @@
+---
+title: Lean Crow Marketing
+---
 <div class="hero">
   <h2>Helping companies implement agile marketing and conversion strategies</h2>
 </div>
