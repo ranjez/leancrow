@@ -29,7 +29,7 @@ title: Lean Crow Marketing
       in the living room and even in bed. Whereas companies have been somewhat slower to respond. Often blocked by technical
       capabilities, skills and resource issues.</p>
     <h4>MY SERVICES INCLUDE...</h4>
-    <img src="img/crow-wall.jpg" alt="crow" class="img-right" />
+    <img src="img/train.jpg" alt="train" class="img-right" />
     <ul>
       <li>Mapping the most common journeys undertaken on a website, and how these play-out across online, offline and face-to-face
         marketing and customer service channels.</li>
@@ -51,7 +51,7 @@ title: Lean Crow Marketing
       and it is not about getting as many users as possible, regardless of quality or engagement.</p>
     <p>I identify the barriers in your website conversion funnel using data and looks to improve conversion using small, incremental
       experiments.</p>
-    <img src="img/mountains.jpg" alt="mountain" />
+    <img src="img/crow-wall.jpeg" alt="crow" />
   </div>
 </div>
 <div id="data_driven" class="section">
