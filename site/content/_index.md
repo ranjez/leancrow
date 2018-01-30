@@ -29,7 +29,7 @@ title: Lean Crow Marketing
       in the living room and even in bed. Whereas companies have been somewhat slower to respond. Often blocked by technical
       capabilities, skills and resource issues.</p>
     <h4>MY SERVICES INCLUDE...</h4>
-    <img src="img/train.jpg" alt="train" class="img-right" />
+    <img src="img/crow-wall.jpg" alt="crow" class="img-right" />
     <ul>
       <li>Mapping the most common journeys undertaken on a website, and how these play-out across online, offline and face-to-face
         marketing and customer service channels.</li>
