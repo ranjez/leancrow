@@ -7,7 +7,7 @@ title: Lean Crow Marketing
 <div id="multi_channel" class="section">
   <div class="section-content">
     <h3>Multi-Channel Marketing</h3>
-    <p>Putting in place the building blocks for a well thought through marketing loop.</p><p>Multi-channel marketing has come a long way since operating disparate activities in silos. Along a user journey, a customer
+    <p>Set up marketing programmes that deliver continuous customer insight. </br></br>Put in place the foundations for a comprehensive CRM system that instantly gathers data, allows for interchangeable tech integrations and initiates customer profile building. </br></br> </p><p>Multi-channel marketing has come a long way since operating disparate activities in silos. Along a user journey, a customer
       can encounter various messages related to your brand that all contribute to a conversion. If you understand the contribution
       each channel makes, you can reduce costs and improve conversions.</p>
     <img src="img/diagram.png" alt="diagram" />
