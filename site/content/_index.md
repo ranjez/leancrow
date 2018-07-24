@@ -4,9 +4,9 @@ title: Lean Crow Marketing
 <div class="hero">
   <h2>Helping companies implement agile marketing and conversion strategies</h2>
 </div>
-<div id="multi_channel" class="section">
+<div id="product" class="section">
   <div class="section-content">
-    <h3>Multi-Channel Marketing</h3>
+    <h3>Product</h3>
     <p>Set up marketing programmes that deliver continuous customer insight. </br></br>Put in place the foundations for a comprehensive CRM system that instantly gathers data for future use.</br></br>Create an environment that allows your company to integrate with the latest and most suitable 3rd party software solutions</br></br>Reduce blocks that separate your tech team from your product and marketing teams.</br></br>Build meaningful and progressive data pools that allow you to speak to your customers in customised and relevant ways.</br></br>Create a digital marketing loop that gathers data, builds comprehensive customer profiles and finds new customers.</br></br>  </p><p>Multi-channel marketing has come a long way since operating disparate activities in silos. Along a user journey, a customer
       can encounter various messages related to your brand that all contribute to a conversion. If you understand the contribution
       each channel makes, you can reduce costs and improve conversions.</p>
@@ -21,9 +21,9 @@ title: Lean Crow Marketing
     </ul>
   </div>
 </div>
-<div id="omni_channel" class="section">
+<div id="performance" class="section">
   <div class="section-content">
-    <h3>Omni-Channel Marketing</h3>
+    <h3>Performance</h3>
     <p>Yep, I get it! Customers engage with brands on their laptops, mobile devices, they call companies, message them and pop
       in to see them. They are omni-channel kings. Look at them, engaging with brands by day and night, on trains and buses,
       in the living room and even in bed. Whereas companies have been somewhat slower to respond. Often blocked by technical
@@ -39,21 +39,6 @@ title: Lean Crow Marketing
     </ul>
   </div>
 </div>
-<div id="cro" class="section">
-  <div class="section-content">
-    <h3>Conversion Rate Optimisation</h3>
-    <p>What on earth is CRO? Put simply, it's improving any metric on your website that is important to your business. Often
-      that can be:</p>
-    <p>Converting more browsers into buyers</p>
-    <p>Increasing the conversion frequency of repeat customers</p>
-    <p>Increasing the number of registrations, downloads, newsletter signups.</p>
-    <p>CRO is not about unqualified hunches or guesses. It's most certainly not driven by the most senior's person's opinion
-      and it is not about getting as many users as possible, regardless of quality or engagement.</p>
-    <p>I identify the barriers in your website conversion funnel using data and looks to improve conversion using small, incremental
-      experiments.</p>
-    <img src="img/crow-wall.jpeg" alt="crow" />
-  </div>
-</div>
 <div id="data_driven" class="section">
   <div class="section-content">
     <h3>Data</h3>
@@ -64,9 +49,9 @@ title: Lean Crow Marketing
       spreadsheet.</p>
   </div>
 </div>
-<div id="agile" class="section">
+<div id="me" class="section">
   <div class="section-content">
-    <h3>An agile aproach</h3>
+    <h3>Me</h3>
     <p>In a moments notice, a customer, market or competitor landscape can change, forcing you to adapt.
       <p>
         <p>Gain scale and yet remain agile.
