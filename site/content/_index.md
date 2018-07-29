@@ -20,7 +20,10 @@ title: Lean Crow Marketing
   <div class="section-content">
     <h3>Product Marketing</h3>
     <p>Tech startups looking to make every product and feature launch count, will have at some point considered hiring a product marketing manager.</p>
-    <img src="img/diagram.png" alt="diagram" />
+
+<p><b>Customer Personas</b></br>
+
+\    <img src="img/diagram.png" alt="diagram" />
     <h4>MY SERVICES INCLUDE...</h4>
     <ul>
       <li>Optimising the cost, efficiency and effectiveness of each channel in your marketing mix</li>
