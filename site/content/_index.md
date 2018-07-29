@@ -23,6 +23,10 @@ title: Lean Crow Marketing
 
 <p><b>Customer Personas</b></br>
 
+Interrogate your database using SQL to identify your core and outlying customer personas. </br>
+
+Build a customer touchpoint map to understand patterns of behaviour and lead nuturing.</br>
+
 \    <img src="img/diagram.png" alt="diagram" />
     <h4>MY SERVICES INCLUDE...</h4>
     <ul>
