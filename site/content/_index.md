@@ -4,12 +4,22 @@ title: Lean Crow Marketing
 <div class="hero">
   <h2>Helping companies implement deliverable agile marketing strategies</h2>
 </div>
+
+<div class="section">
+
+  <div class="section-content">
+
+<p>
+
+
+
+</div>
+
+</div>
 <div id="product" class="section">
   <div class="section-content">
-    <h3>Product</h3>
-    <p>Set up marketing programmes that deliver continuous customer insight. </br></br>Put in place the foundations for a comprehensive CRM system that instantly gathers data for future use.</br></br>Create an environment that allows your company to integrate with the latest and most suitable 3rd party software solutions</br></br>Reduce blocks that separate your tech team from your product and marketing teams.</br></br>Build meaningful and progressive data pools that allow you to speak to your customers in customised and relevant ways.</br></br>Create a digital marketing loop that gathers data, builds comprehensive customer profiles and finds new customers.</br></br>  </p><p>Multi-channel marketing has come a long way since operating disparate activities in silos. Along a user journey, a customer
-      can encounter various messages related to your brand that all contribute to a conversion. If you understand the contribution
-      each channel makes, you can reduce costs and improve conversions.</p>
+    <h3>Product Marketing</h3>
+    <p>Tech startups looking to make every product and feature launch count, will have at some point considered hiring a product marketing manager.</p>
     <img src="img/diagram.png" alt="diagram" />
     <h4>MY SERVICES INCLUDE...</h4>
     <ul>
