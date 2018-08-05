@@ -18,8 +18,10 @@ title: Lean Crow Marketing
 </div>
 <div id="product" class="section">
   <div class="section-content">
-    <h3>Product Marketing</h3>
-    <p>Tech startups looking to make every product and feature launch count, will have at some point considered hiring a product marketing manager.</p>
+<h2>Growing tech startup</h2>    
+
+<h3>Product Marketing</h3>
+    <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
 
 <p><b>Customer Personas</b></br>
 
