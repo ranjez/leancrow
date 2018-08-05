@@ -1,14 +1,16 @@
+---
+title: Lean Crow Marketing
+---
 <div class="hero">
     <h2>Helping companies implement deliverable agile marketing strategies</h2>
 </div>
 
 <div class="section">
 
-    <div class="section-content">
+  <div class="section-content">
 
-        <p>
 
-    </div>
+  </div>
 
 </div>
 <div id="product" class="section">
