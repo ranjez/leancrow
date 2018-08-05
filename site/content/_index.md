@@ -39,7 +39,7 @@ title: Lean Crow Marketing
 
 <li>Build a customer touchpoint map</li>
 
-<li>Create event-based trigger messaging, be that nudges, incentives, prompts, incentives</li>
+<li>Create event-based trigger messaging, be that nudges, incentives, prompts, notifications</li>
 
 <li>Research your competitors</li>
 
