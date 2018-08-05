@@ -14,37 +14,21 @@
 <div id="product" class="section">
     <div class="section-content">
         <h2>Growing tech startup</h2>
-
         <h3>Product Marketing</h3>
         <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
-
         <p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and:</p>
-
         <ul>
-
           <li>Talk to your customers - what do they like, dislike, expect, reject, value and need.</li>
-
           <li>Experiment with product messaging, imagery, notifications, functionality</li>
-
           <li>Obsess over data led analysis</li>
-
           <li>Write persuasive copy that reflects your tone of voice</li>
-
           <li>Build a customer touchpoint map</li>
-
           <li>Create event-based trigger messaging, be that nudges, incentives, prompts, notifications</li>
-
           <li>Research your competitors</li>
-
         </ul>
-
-
       <p>Customer Personas</p>
-
             Interrogate your database using SQL to identify your core and outlying customer personas.
-
             Build a customer touchpoint map to understand patterns of behaviour and lead nuturing.
-
             \ <img src="img/diagram.png" alt="diagram" />
             <h4>MY SERVICES INCLUDE...</h4>
             <ul>
