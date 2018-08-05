@@ -25,11 +25,16 @@ title: Lean Crow Marketing
 
 
 
-<p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and I can:</br>
+<p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and:</br>
 
 * **Talk to your customers** - what do they like, dislike, expect, reject, value and need.
 * **Experiment with product messaging**, imagery, notifications, functionality
-* Write persuasive copy 
+* Obsess over data led analysis
+* Write persuasive copy that reflects your tone of voice
+* Build a customer touchpoint map
+* Create event-based trigger messaging, be that nudges, incentives, prompts, incentives
+* Research your competitors
+* 
 * </p>
 
 <p><b>Customer Personas</b></br>
