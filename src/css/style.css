@@ -100,11 +100,6 @@ p {
   font-family: Montserrat;
 }
 
-li {
-  margin: 1em 0;
-  list-style-type: none;
-}
-
 .img-right {
   float: right;
   width: 400px;
