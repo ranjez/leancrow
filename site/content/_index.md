@@ -32,7 +32,7 @@ title: Lean Crow Marketing
 <div id="performance" class="section">
     <div class="section-content">
         <h3>Performance Marketing</h3>
-        <p>As a tech startup you need to grow rapidly - now! As an experienced digital marketer I can parachute into your team at a moment's notice and:</p>
+        <p>As a tech startup you need to grow rapidly - now! As an experienced digital marketer I can work with you to set your growth strategy or, at short notice, simply offer another pair of hands to execute your plan.</p>
 
 <ul>
 
