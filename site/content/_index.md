@@ -58,10 +58,8 @@ title: Lean Crow Marketing
 <div id="me" class="section">
     <div class="section-content">
         <h3>Me</h3>
-        <p>In a moments notice, a customer, market or competitor landscape can change, forcing you to adapt.</p>
-        <p>Gain scale and yet remain agile.</p>
-        <p>Plan and yet adapt at a moment's notice.</p>
-        <p>Minimise waste</p>
+        <p>I'm Kerry Abass and I am passionate about marketing digital products and services that both delight customers and deliver a significant commercial impact. I have worked in international roles, both at the office and from remote locations, collaborating with colleagues, partners and agencies to deliver products that solve customer problems.  </p>
+        
         <h3>Why lean crow?</h3>
         <p>I believe big ambitions should be broken into manageable chunks. That a marketing strategy should build over time using many small, measurable experiments over a few large bets. Because I don't like heavily investing in something if there's little to suggest it will work. Because I want to reduce waste.</p>
          <p>I like lean thinking and I like working smartly.</p>
