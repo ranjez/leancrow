@@ -50,6 +50,8 @@ title: Lean Crow Marketing
     </ul>
 
   <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
+
+</div>
 </div>
 <div id="me" class="section">
     <div class="section-content">
