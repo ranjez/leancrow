@@ -18,33 +18,32 @@ title: Lean Crow Marketing
         <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
         <p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and:</p>
         <ul>
-          <li>Talk to your customers - what do they like, dislike, expect, reject, value and need.</li>
-
-<li>Interrogate your database using SQL to identify your core and outlying customer personas.</li>
+          <li>Talk to your customers - what do they like, dislike, expect, reject, value and need.</li><li>Interrogate your database using SQL to identify your core and outlying customer personas.</li>
           <li>Experiment with product messaging, imagery and videos until they resonate with customers.</li>
           <li>Obsess over data led analysis and build data models that will validate and drive marketing activities.</li>
           <li>Write persuasive copy that reflects your tone of voice and achieve goals.</li>
           <li>Build a user touch point map to understand behaviour and patterns.</li>
           <li>Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
           <li>Research your competitors and understand what your customers think of them.</li>
-        </ul>
-      <p>Customer Personas</p>
-            
-            
-    </div>
+        </ul>     
 </div>
 <div id="performance" class="section">
     <div class="section-content">
-        <h3>Performance</h3>
-        <p>Yep, I get it! Customers engage with brands on their laptops, mobile devices, they call companies, message them and pop in to see them. They are omni-channel kings. Look at them, engaging with brands by day and night, on trains and buses, in the living room and even in bed. Whereas companies have been somewhat slower to respond. Often blocked by technical capabilities, skills and resource issues.</p>
-        <h4>MY SERVICES INCLUDE...</h4>
-        <img src="img/train.jpg" alt="train" class="img-right" />
-        <ul>
-            <li>Mapping the most common journeys undertaken on a website, and how these play-out across online, offline and face-to-face marketing and customer service channels.</li>
-            <li>Build a 360 degree view of your customer by seamlessly integrating data from both online and offline channels.</li>
-            <li>This enables you to speak to your customers in real-time, in a way that is meaningful and relevant. Whether that be creating a more effective communication strategy or offering a personalised website experience.</li>
-        </ul>
-    </div>
+        <h3>Performance Marketing</h3>
+        <p>As a tech startup you need to grow rapidly - now! As an experienced digital marketer I can parachute into your team at a moment's notice and:</p>
+
+<ul>Offer hands-on support running your in-house marketing channels</ul>
+
+<ul>Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</ul>
+
+<ul>Work with you to decide which marketing channels can be run in-house and which require agency support.</ul>
+
+<ul>Help you plan your budget across all Performance Marketing channels.</ul>
+
+<ul>Build data models that will monitor and analyse your performance across all channels.</ul>
+
+<ul>Build attribution models using SQL to understand channel contribution.</ul>
+    
 </div>
 <div id="data_driven" class="section">
     <div class="section-content">
