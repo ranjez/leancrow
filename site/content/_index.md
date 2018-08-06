@@ -25,7 +25,9 @@ title: Lean Crow Marketing
           <li>Build a user touch point map to understand behaviour and patterns.</li>
           <li>Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
           <li>Research your competitors and understand what your customers think of them.</li>
-        </ul>     
+        </ul>
+
+  <a href="#" class="button">CONTACT ME</a>
 </div>
 <div id="performance" class="section">
     <div class="section-content">
