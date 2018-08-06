@@ -32,18 +32,20 @@ title: Lean Crow Marketing
         <h3>Performance Marketing</h3>
         <p>As a tech startup you need to grow rapidly - now! As an experienced digital marketer I can parachute into your team at a moment's notice and:</p>
 
-<ul>Offer hands-on support running your in-house marketing channels</ul>
+<ul>
 
-<ul>Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</ul>
+<li>Offer hands-on support running your in-house marketing channels</li>
 
-<ul>Work with you to decide which marketing channels can be run in-house and which require agency support.</ul>
+<li>Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</li>
 
-<ul>Help you plan your budget across all Performance Marketing channels.</ul>
+<li>Work with you to decide which marketing channels can be run in-house and which require agency support.</li>
 
-<ul>Build data models that will monitor and analyse your performance across all channels.</ul>
+<li>Help you plan your budget across all Performance Marketing channels.</li>
 
-<ul>Build attribution models using SQL to understand channel contribution.</ul>
-    
+<li>Build data models that will monitor and analyse your performance across all channels.</li>
+
+<li>Build attribution models using SQL to understand channel contribution.</li>
+    </ul>
 </div>
 <div id="data_driven" class="section">
     <div class="section-content">
