@@ -27,7 +27,7 @@ title: Lean Crow Marketing
           <li>Research your competitors and understand what your customers think of them.</li>
         </ul>
 
-  <div class="center"><a href="#" class="button">CONTACT ME</a></div>
+  <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
 </div>
 <div id="performance" class="section">
     <div class="section-content">
@@ -48,14 +48,8 @@ title: Lean Crow Marketing
 
 <li>Build attribution models using SQL to understand channel contribution.</li>
     </ul>
-</div>
-<div id="data_driven" class="section">
-    <div class="section-content">
-        <h3>Data</h3>
-        <p>I take a data-driven approach and develop growth strategies with data at its core. I turn data into actionable metrics that grow sales and improve the return on investment.</p>
-        <p>I aim to ensure as many touch points capture data for continued insight and segmentation. Whether that be using off the shelf analytics packages, gaining insight from data warehouses or presenting clear, transparent results on a tableau spreadsheet.
-        </p>
-    </div>
+
+  <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
 </div>
 <div id="me" class="section">
     <div class="section-content">
