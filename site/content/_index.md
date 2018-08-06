@@ -40,9 +40,9 @@ title: Lean Crow Marketing
 
 <li>Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</li>
 
-<li>Work with you to decide which marketing channels can be run in-house and which require agency support.</li>
+<li>Work with you to decide which channels can be run in-house and which require agency support.</li>
 
-<li>Help you plan your budget across all Performance Marketing channels.</li>
+<li>Help you budget.</li>
 
 <li>Build data models that will monitor and analyse your performance across all channels.</li>
 
@@ -56,8 +56,4 @@ title: Lean Crow Marketing
         <h3>Me</h3>
         <p>I'm Kerry Abass and I am passionate about marketing digital products and services that both delight customers and deliver a significant commercial impact. I have worked in international roles, both at the office and from remote locations, collaborating with colleagues, partners and agencies to deliver products that solve customer problems.  </p>
         </div>
-        <h3>Why lean crow?</h3>
-        <p>I believe big ambitions should be broken into manageable chunks. That a marketing strategy should build over time using many small, measurable experiments over a few large bets. Because I don't like heavily investing in something if there's little to suggest it will work. Because I want to reduce waste.</p>
-         <p>I like lean thinking and I like working smartly.</p>
-    </div>
-</div>
+        </div>
