@@ -27,7 +27,7 @@ title: Lean Crow Marketing
           <li>Research your competitors and understand what your customers think of them.</li>
         </ul>
 
-  <a href="#" class="button">CONTACT ME</a>
+  <div class="center"><a href="#" class="button">CONTACT ME</a></div>
 </div>
 <div id="performance" class="section">
     <div class="section-content">
