@@ -42,17 +42,17 @@ title: Lean Crow Marketing
 
 <ul>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Offer hands-on support running your in-house marketing channels</li>
+<li> <img src="img/011-laptop.svg" alt="conversation icon" /> <b>Offer hands-on support</b></br>I can run and manage your in-house marketing channels</li>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</li>
+<li> <img src="img/012-ad.svg" alt="conversation icon" /><b>Set up new marketing channels</b></br>I can launch new growth channels such as Google Ads, Facebook Ads, Instagram Ads.</li>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Work with you to decide which channels can be run in-house and which require agency support.</li>
+<li> <img src="img/013-house.svg" alt="conversation icon" /><b>In-house or agency?</b></br>I will work with you to decide which channels can be run in-house and which require agency support.</li>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Help you budget.</li>
+<li> <img src="img/014-budget.svg" alt="conversation icon" /><b>Help you budget.</b></br>I can help you budget and forecast to understand how much you need to spend, or if you need to spend at all.</li>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build data models that will monitor and analyse your performance across all channels.</li>
+<li> <img src="img/005-marketing.svg" alt="conversation icon" /> <b>Build data models</b></br>I will build a data set to monitor and analyse your performance across all channels.</li>
 
-<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build attribution models using SQL to understand channel contribution.</li>
+<li> <img src="img/015-funnel.svg" alt="conversation icon" /> <b>Build attribution models</b></br>I can use SQL to understand channel contribution.</li>
     </ul>
 
   <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
