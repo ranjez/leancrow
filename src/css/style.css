@@ -158,13 +158,13 @@ li br {
   padding: 20px;
 }
 
-.logo img {
+#header > .logo img {
   width: 150px;
   margin: 0;
   padding: 0;
 }
 
-.logo {
+#header > .logo {
   margin: 0;
   padding: 0;
 }
