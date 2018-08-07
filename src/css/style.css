@@ -99,6 +99,17 @@ p {
   margin: 1em 0;
 }
 
+li {
+  line-height: 3em;
+  list-style: none;
+}
+
+li img {
+  width: 50px;
+  position: relative;
+  top: 15px;
+}
+
 .img-right {
   float: right;
   width: 400px;
