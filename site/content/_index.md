@@ -18,7 +18,7 @@ title: Lean Crow Marketing
         <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
         <p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and:</p>
         <ul>
-          <li><img src="img/002-conversation.svg" alt="conversation icon" /> Talk to your customers - what do they like, dislike, expect, reject, value and need.</li>
+          <li><img src="img/002-conversation.svg" alt="conversation icon" /> <b>Talk to your customers</b></br>What do they like, dislike, expect, reject, value and need.</li>
 
 <li><img src="img/003-cloud.svg" alt="conversation icon" /> Interrogate your database using SQL to identify your core and outlying customer personas.</li>
           <li> <img src="img/004-lab.svg" alt="conversation icon" /> Experiment with product messaging, imagery and videos until they resonate with customers.</li>
