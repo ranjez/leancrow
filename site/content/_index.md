@@ -15,7 +15,7 @@ title: Lean Crow Marketing
 <div id="product" class="section">
     <div class="section-content">
         <h3>Product Marketing</h3>
-        <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
+        <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features at a fast pace. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
         <p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice.</p>
 
 <p>I can:</p>
