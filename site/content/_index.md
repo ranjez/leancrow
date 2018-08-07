@@ -20,13 +20,13 @@ title: Lean Crow Marketing
         <ul>
           <li><img src="img/002-conversation.svg" alt="conversation icon" /> Talk to your customers - what do they like, dislike, expect, reject, value and need.</li>
 
-<li><img src="img/002-conversation.svg" alt="conversation icon" /> Interrogate your database using SQL to identify your core and outlying customer personas.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Experiment with product messaging, imagery and videos until they resonate with customers.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Obsess over data led analysis and build data models that will validate and drive marketing activities.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Write persuasive copy that reflects your tone of voice and achieve goals.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build a user touch point map to understand behaviour and patterns.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
-          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Research your competitors and understand what your customers think of them.</li>
+<li><img src="img/003-cloud.svg" alt="conversation icon" /> Interrogate your database using SQL to identify your core and outlying customer personas.</li>
+          <li> <img src="img/004-lab.svg" alt="conversation icon" /> Experiment with product messaging, imagery and videos until they resonate with customers.</li>
+          <li> <img src="img/005-marketing.svg" alt="conversation icon" /> Obsess over data led analysis and build data models that will validate and drive marketing activities.</li>
+          <li> <img src="img/006-edit.svg" alt="conversation icon" /> Write persuasive copy that reflects your tone of voice and achieve goals.</li>
+          <li> <img src="img/007-map.svg" alt="conversation icon" /> Build a user touch point map to understand behaviour and patterns.</li>
+          <li> <img src="img/008-alert.svg" alt="conversation icon" /> Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
+          <li> <img src="img/010-client.svg" alt="conversation icon" /> Research your competitors and understand what your customers think of them.</li>
         </ul>
 
   <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
