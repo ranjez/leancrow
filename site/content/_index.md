@@ -5,13 +5,6 @@ title: Lean Crow Marketing
     <h2>Helping companies implement deliverable agile marketing strategies</h2>
 </div>
 
-<div class="section">
-
-  <div class="section-content">
-
-  </div>
-
-</div>
 <div id="product" class="section">
     <div class="section-content">
         <h3>Product Marketing</h3>
