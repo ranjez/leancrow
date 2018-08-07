@@ -20,14 +20,14 @@ title: Lean Crow Marketing
 
 <p>I can:</p>
         <ul>
-          <li><img src="img/002-conversation.svg" alt="conversation icon" /> <b>Talk to your customers</b></br>What do they like, dislike, expect, reject, value and need.</li>
+          <li><img src="img/002-conversation.svg" alt="conversation icon" /> <b>Talk to your customers</b></br>I will find out what they like, dislike, expect, reject, value and need.</li>
 
-<li><img src="img/003-cloud.svg" alt="conversation icon" /> <b>Interrogate your database</b></br>Use SQL to identify your core and outlying customer personas.</li>
-          <li> <img src="img/004-lab.svg" alt="conversation icon" /> <b>Experiment with product positioning</b></br>Iterate messaging, imagery and videos until they resonate with your customers.</li>
-          <li> <img src="img/005-marketing.svg" alt="conversation icon" /> <b>Obsess over data led analysis</b></br>Build data models that will validate and drive marketing activities.</li>
-          <li> <img src="img/006-edit.svg" alt="conversation icon" /> <b>Write persuasive copy</b></br>Copy that reflects your company tone of voice and is designed to deliver goals.</li>
-          <li> <img src="img/007-map.svg" alt="conversation icon" /> <b>Build a user touch point map</b></br>Understand user patterns of behaviour and moments of influence.</li>
-          <li> <img src="img/008-alert.svg" alt="conversation icon" /><b>Create event-based trigger messaging</b></br>Be that nudges, incentives, prompts, notifications.</li>
+<li><img src="img/003-cloud.svg" alt="conversation icon" /> <b>Interrogate your database</b></br>I use SQL to identify your core and outlying customer personas.</li>
+          <li> <img src="img/004-lab.svg" alt="conversation icon" /> <b>Experiment with product positioning</b></br>I can produce messaging, imagery and videos that resonate with your customers.</li>
+          <li> <img src="img/005-marketing.svg" alt="conversation icon" /> <b>Obsess over data led analysis</b></br>I will build data models that validate and drive marketing activities.</li>
+          <li> <img src="img/006-edit.svg" alt="conversation icon" /> <b>Write persuasive copy</b></br>My copy will reflect your company tone of voice and is designed to prompt users to take action.</li>
+          <li> <img src="img/007-map.svg" alt="conversation icon" /> <b>Build a user touch point map</b></br>I will build an end-to-end map to understand user behaviour and identify optimal moments of influence.</li>
+          <li> <img src="img/008-alert.svg" alt="conversation icon" /><b>Create event-based trigger messaging</b></br>I will design a program of nudges, incentives, prompts and notifications that improve product activation and retention.</li>
           <li> <img src="img/010-client.svg" alt="conversation icon" /> <b>Research your competitors </b></br>Understand what your customers think of your competitors.</li>
         </ul>
 
