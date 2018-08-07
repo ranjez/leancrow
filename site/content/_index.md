@@ -18,13 +18,13 @@ title: Lean Crow Marketing
         <p>You're a tech startup, experiencing a period of rapid growth. Your agile tech and product team are busy shipping new products and features but the pace is fast. Your small team needs to scale quickly to keep on top of customer feedback and to drive product awareness and adoption.</p>
         <p>I can help. I am an experienced Product Marketer, and I can parachute into your growing team at a moments notice and:</p>
         <ul>
-          <li><img src="img/002-conversation.svg" alt="conversation icon"> Talk to your customers - what do they like, dislike, expect, reject, value and need.</li><li>Interrogate your database using SQL to identify your core and outlying customer personas.</li>
-          <li>Experiment with product messaging, imagery and videos until they resonate with customers.</li>
-          <li>Obsess over data led analysis and build data models that will validate and drive marketing activities.</li>
-          <li>Write persuasive copy that reflects your tone of voice and achieve goals.</li>
-          <li>Build a user touch point map to understand behaviour and patterns.</li>
-          <li>Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
-          <li>Research your competitors and understand what your customers think of them.</li>
+          <li><img src="img/002-conversation.svg" alt="conversation icon" /> Talk to your customers - what do they like, dislike, expect, reject, value and need.</li><li>Interrogate your database using SQL to identify your core and outlying customer personas.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Experiment with product messaging, imagery and videos until they resonate with customers.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Obsess over data led analysis and build data models that will validate and drive marketing activities.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Write persuasive copy that reflects your tone of voice and achieve goals.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build a user touch point map to understand behaviour and patterns.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Create event-based trigger messaging, be that nudges, incentives, prompts, notifications.</li>
+          <li> <img src="img/002-conversation.svg" alt="conversation icon" /> Research your competitors and understand what your customers think of them.</li>
         </ul>
 
   <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
@@ -38,17 +38,17 @@ title: Lean Crow Marketing
 
 <ul>
 
-<li>Offer hands-on support running your in-house marketing channels</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Offer hands-on support running your in-house marketing channels</li>
 
-<li>Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Set up new marketing channels, such as Google Ads, Facebook Ads, Instagram Ads.</li>
 
-<li>Work with you to decide which channels can be run in-house and which require agency support.</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Work with you to decide which channels can be run in-house and which require agency support.</li>
 
-<li>Help you budget.</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Help you budget.</li>
 
-<li>Build data models that will monitor and analyse your performance across all channels.</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build data models that will monitor and analyse your performance across all channels.</li>
 
-<li>Build attribution models using SQL to understand channel contribution.</li>
+<li> <img src="img/002-conversation.svg" alt="conversation icon" /> Build attribution models using SQL to understand channel contribution.</li>
     </ul>
 
   <div class="center"><a href="/contact-me" class="button">CONTACT ME</a></div>
